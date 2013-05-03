@@ -1,0 +1,7 @@
+@charset "utf-8";
+
+/* For Win IE 7 */
+#twilightWrapper {
+	_width: 940px;
+	width/**/: 940px;
+}
